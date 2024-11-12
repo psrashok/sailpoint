@@ -71,9 +71,9 @@
 
   ##### Sailpoint LifeCycle Manager
 
-      - SailPoint Lifecycle Manager (LCM) is a product that helps manage identity and access to improve security, compliance, and reduce risk
-      - IdentityIQ Lifecycle Manager manages changes to user access and automates provisioning activities in your enterprise environment.\
-      - The Lifecycle Manager maps directly to the lifecycle of a user in an organization and the core identity business processes associated with the user lifecycle activities.
+      1. SailPoint Lifecycle Manager (LCM) is a product that helps manage identity and access to improve security, compliance, and reduce risk
+      2. IdentityIQ Lifecycle Manager manages changes to user access and automates provisioning activities in your enterprise environment.\
+      3. The Lifecycle Manager maps directly to the lifecycle of a user in an organization and the core identity business processes associated with the user lifecycle activities.
          
          * User Lifecycle Activities – joining, moving, leaving
          * Core Identity Processes – provision, change, de-provision
