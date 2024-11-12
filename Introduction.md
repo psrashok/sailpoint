@@ -1,3 +1,8 @@
+### Sailpoint
+  -> SailPoint's Identity Security Cloud solution enables organizations to manage and secure real-time access to critical data and applications for every enterprise identity with an intelligent and unified approach.
+
+### Basics of Identity Access Management
+
 a. What is Identity Access Management?
 -> Manage the access of Identity
 
