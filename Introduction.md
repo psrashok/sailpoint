@@ -1,21 +1,21 @@
 ### Sailpoint
-    - SailPoint's Identity Security Cloud solution enables organizations to manage and secure real-time access to critical data and applications for every enterprise identity with an intelligent and unified approach.
+  -> SailPoint's Identity Security Cloud solution enables organizations to manage and secure real-time access to critical data and applications for every enterprise identity with an intelligent and unified approach.
 
  #### What is Identity Access Management?
-    - Manage the access of Identity \
-    - Identity management is a method of verifying the identities of network entities and the level of access for enterprise network resources. It helps keep IT systems, networks, and data secure.
+  -> Manage the access of Identity \
+  -> Identity management is a method of verifying the identities of network entities and the level of access for enterprise network resources. It helps keep IT systems, networks, and data secure.
 
 #### What is Identity Security Breaches
    
-    - An identity security breach occurs when someone gains unauthorized access to a person's identity-related data.
-    - This can happen through a malicious attack or an accident, like leaving confidential data on an unsecured server.
-    - Identity security breaches can lead to identity theft, fraud, and other cybercrimes. Cybercriminals can use stolen information to steal money or classified information from the victim.   
+   1. An identity security breach occurs when someone gains unauthorized access to a person's identity-related data.
+   2. This can happen through a malicious attack or an accident, like leaving confidential data on an unsecured server.
+   3. Identity security breaches can lead to identity theft, fraud, and other cybercrimes. Cybercriminals can use stolen information to steal money or classified information from the victim.   
 
 #### Security Fundamentals of Sailpoint
 
   a. Identity landscape
-      - 1. Identity Security Categories
-      - 2. Identity Security Foundations
+    1. Identity Security Categories
+    2. Identity Security Foundations
 
   b. Managing access
     1. Managing and Securing identities and their access
