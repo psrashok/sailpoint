@@ -3,8 +3,15 @@
 
 ### Basics of Identity Access Management
 
-a. What is Identity Access Management?
--> Manage the access of Identity
+ #### What is Identity Access Management?
+  -> Manage the access of Identity
+  -> Identity management is a method of verifying the identities of network entities and the level of access for enterprise network resources. It helps keep IT systems, networks, and data secure.
+
+#### What is Identity Security Breaches
+   
+   1. An identity security breach occurs when someone gains unauthorized access to a person's identity-related data.
+   2. This can happen through a malicious attack or an accident, like leaving confidential data on an unsecured server.
+   3. Identity security breaches can lead to identity theft, fraud, and other cybercrimes. Cybercriminals can use stolen information to steal money or classified information from the victim.   
 
 b. Benefits of Sailpoint?
 
