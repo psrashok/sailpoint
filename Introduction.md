@@ -55,7 +55,7 @@
     - Harnessing the power of AI and machine learning, SailPoint's AI Services seamlessly automate access, delivering only the required access to the right identities and technology at the right time.
     - SailPoint's comprehensive extension modules address the sophisticated needs of the large enterprise while delivering the flexibility and ease-of-deployment that customers demand.
 
-    ###### IdentityIQ Components and Features
+    ##### IdentityIQ Components and Features
 
       - IdentityIQ Compliance Manager
       - IdentityIQ Lifecycle Manager
@@ -68,6 +68,59 @@
       - SaaS Management
       - Identity Security Platform
       - Access History
+
+  ##### Sailpoint LifeCycle Manager
+
+      - IdentityIQ Lifecycle Manager manages changes to user access and automates provisioning activities in your enterprise environment.\
+      - The Lifecycle Manager maps directly to the lifecycle of a user in an organization and the core identity business processes associated with the user lifecycle activities.
+         
+         * User Lifecycle Activities – joining, moving, leaving
+         * Core Identity Processes – provision, change, de-provision
+
+  The Lifecycle Manager can be configured to enable users to make requests through IdentityIQ and control which requests they can make.
+
+    - Users
+            Individual User – can make requests using the self-service feature
+            Managers – can make requests for direct reports
+            Help Desk Operators – can make requests for populations
+            Other users – controls requests by all users not a part of the standard groups
+
+    - User Requests 
+            New access – request entitlement and roles
+            Account Management – create, manage, and delete accounts including enable, disable, and unlock, change and reset passwords, and track current requests
+            Identity Management – create, edit, and view identities
+
+    - Automated Change Management Using Configurable Event Triggers
+            Lifecycle Manager provides automated change management based on configurable identity lifecycle event triggers.\
+            These triggers are mapped to different identity-related events in an authoritative source, typically an human resources system.\ 
+            When a tracked event is detected, provisioning requests are generated.
+
+            <ins> For Example </ins>
+            :point_right: ''' When the status of an employee changes from active to terminated, this lifecycle event can be configured to trigger a deprovisioning request for all of the access associate with the employee.\ 
+
+            If an employee's job title changes, a trigger can launch the assignment of a new business role to replace the employee's current business role.'''
+
+    - IdentityIQ Governance Platform
+        Lifecycle Manager leverages the IdentityIQ Governance Platform to enhance compliance performance, improve security, and reduce risk.\
+
+        SailPoint uses a combination of roles, policy, and risk to provide a framework for evaluating all requests for changes to access against predefined business policies.
+
+            - IdentityIQ Role Model – simplifies administration of user access by providing a predefined and planned structure for requesting and validating user access based on business or IT roles.
+
+            - IdentityIQ Policy Model – evaluates your corporate access policies during the access request and provisioning processes.
+
+            - IdentityIQ Risk Model – reduces operational risk by using a risk-based approach to identity governance and provisioning by enabling organizations to modify change management processes.
+
+
+    - Identity Provisioning Broker
+        Lifecycle Manager uses the IdentityIQ Provisioning Broker to manage the final change manage activities that are the result of self-service access requests or automated lifecycle event triggers.\
+        The IdentityIQ Provisioning Broker is a key piece of the IdentityIQ architecture that enables organizations to coordinate changes to user access across different provisioning processes.\
+        When a provisioning change is triggered, the provisioning broker separates each request into its component parts and determines the appropriate provisioning implementation process. Provisioning options include:
+
+          - The SailPoint Automated Change Manager
+          - 3rd-party user provisioning solutions, such as Oracle IdM
+          - Service request systems, such as BMC Remedy
+          - Email generated to a system administrator
 
 
 b. Benefits of Sailpoint?
