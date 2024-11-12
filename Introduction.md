@@ -47,6 +47,27 @@
       - Provisioning
       - User Management
 
+  ##### Introduction to IdentityIQ
+
+    - SailPoint IdentityIQ is an identity and access management software platform custom-built for complex enterprises.
+    - It delivers full lifecycle and compliance management for provisioning, access requests, access certifications, and separation of duties.
+    - The platform integrates with SailPoint's extensive library of connectors to intelligently govern access to today's essential business applications.
+    - Harnessing the power of AI and machine learning, SailPoint's AI Services seamlessly automate access, delivering only the required access to the right identities and technology at the right time.
+    - SailPoint's comprehensive extension modules address the sophisticated needs of the large enterprise while delivering the flexibility and ease-of-deployment that customers demand.
+
+    ###### IdentityIQ Components and Features
+
+      - IdentityIQ Compliance Manager
+      - IdentityIQ Lifecycle Manager
+      - Artificial Intelligence and Machine Learning
+      - Privileged Account Management Module
+      - Connectors and Integration Modules
+      - Cloud Access Management
+      - Password Manager
+      - Access Risk Management
+      - SaaS Management
+      - Identity Security Platform
+      - Access History
 
 
 b. Benefits of Sailpoint?
