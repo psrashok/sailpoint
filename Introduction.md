@@ -96,7 +96,7 @@
             These triggers are mapped to different identity-related events in an authoritative source, typically an human resources system.\ 
             When a tracked event is detected, provisioning requests are generated.
 
-            <ins>underlined</ins> For Example
+             > For Example
               ''' When the status of an employee changes from active to terminated, this lifecycle event can be configured to trigger a deprovisioning request for all of the access associate with the employee.\ 
 
             If an employee's job title changes, a trigger can launch the assignment of a new business role to replace the employee's current business role.'''
