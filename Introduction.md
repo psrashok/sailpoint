@@ -1,8 +1,6 @@
 ### Sailpoint
   -> SailPoint's Identity Security Cloud solution enables organizations to manage and secure real-time access to critical data and applications for every enterprise identity with an intelligent and unified approach.
 
-### Basics of Identity Access Management
-
  #### What is Identity Access Management?
   -> Manage the access of Identity \
   -> Identity management is a method of verifying the identities of network entities and the level of access for enterprise network resources. It helps keep IT systems, networks, and data secure.
@@ -26,9 +24,30 @@
   c. Strengthen security
    1. Controls that tighten security in Identity and Access Management
    2. Managing risk in Identity Security
-   
+
   d.Assess your maturity
    1. Assess your maturity
+
+### Basics of Identity Access Management
+  - Identity and access management is the framework and processes organizations use to manage and secure digital identities and control user access to critical information.
+  -  Systems include user registration, identity authentication, role-based access control, and compliance auditing and reporting.
+  - Identity and access management systems protect sensitive data and systems from unauthorized access and breaches while also streamlining and automating the management of users’ digital identities, access permissions, and security policies.
+
+  ##### Core concepts related to identity and access management
+
+      - Digital identities
+      - Identity management
+      - Access management
+      - Identity governance
+      - Multi-factor authentication (MFA)
+      - Access Management
+      - Authentication
+      - Authorization
+      - Password management
+      - Provisioning
+      - User Management
+
+
 
 b. Benefits of Sailpoint?
 
