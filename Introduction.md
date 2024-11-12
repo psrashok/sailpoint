@@ -80,18 +80,18 @@
 
   The Lifecycle Manager can be configured to enable users to make requests through IdentityIQ and control which requests they can make.
 
-    - Users
+    a. Users
             Individual User – can make requests using the self-service feature
             Managers – can make requests for direct reports
             Help Desk Operators – can make requests for populations
             Other users – controls requests by all users not a part of the standard groups
 
-    - User Requests 
+    b. User Requests 
             New access – request entitlement and roles
             Account Management – create, manage, and delete accounts including enable, disable, and unlock, change and reset passwords, and track current requests
             Identity Management – create, edit, and view identities
 
-    - Automated Change Management Using Configurable Event Triggers
+    c. Automated Change Management Using Configurable Event Triggers
             Lifecycle Manager provides automated change management based on configurable identity lifecycle event triggers.\
             These triggers are mapped to different identity-related events in an authoritative source, typically an human resources system.\ 
             When a tracked event is detected, provisioning requests are generated.
@@ -101,7 +101,7 @@
 
             If an employee's job title changes, a trigger can launch the assignment of a new business role to replace the employee's current business role.'''
 
-    - IdentityIQ Governance Platform
+    d. IdentityIQ Governance Platform
         Lifecycle Manager leverages the IdentityIQ Governance Platform to enhance compliance performance, improve security, and reduce risk.\
 
         SailPoint uses a combination of roles, policy, and risk to provide a framework for evaluating all requests for changes to access against predefined business policies.
@@ -113,7 +113,7 @@
             - IdentityIQ Risk Model – reduces operational risk by using a risk-based approach to identity governance and provisioning by enabling organizations to modify change management processes.
 
 
-    - Identity Provisioning Broker
+    e. Identity Provisioning Broker
         Lifecycle Manager uses the IdentityIQ Provisioning Broker to manage the final change manage activities that are the result of self-service access requests or automated lifecycle event triggers.\
         The IdentityIQ Provisioning Broker is a key piece of the IdentityIQ architecture that enables organizations to coordinate changes to user access across different provisioning processes.\
         When a provisioning change is triggered, the provisioning broker separates each request into its component parts and determines the appropriate provisioning implementation process. Provisioning options include:
