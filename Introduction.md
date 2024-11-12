@@ -71,6 +71,7 @@
 
   ##### Sailpoint LifeCycle Manager
 
+      - SailPoint Lifecycle Manager (LCM) is a product that helps manage identity and access to improve security, compliance, and reduce risk
       - IdentityIQ Lifecycle Manager manages changes to user access and automates provisioning activities in your enterprise environment.\
       - The Lifecycle Manager maps directly to the lifecycle of a user in an organization and the core identity business processes associated with the user lifecycle activities.
          
@@ -96,7 +97,7 @@
             When a tracked event is detected, provisioning requests are generated.
 
             <ins> For Example </ins>
-            :point_right: ''' When the status of an employee changes from active to terminated, this lifecycle event can be configured to trigger a deprovisioning request for all of the access associate with the employee.\ 
+              ''' When the status of an employee changes from active to terminated, this lifecycle event can be configured to trigger a deprovisioning request for all of the access associate with the employee.\ 
 
             If an employee's job title changes, a trigger can launch the assignment of a new business role to replace the employee's current business role.'''
 
