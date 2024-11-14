@@ -13,19 +13,19 @@
 
 #### Security Fundamentals of Sailpoint
 
-  a. Identity landscape
+  a. Identity landscape \
     1. Identity Security Categories
     2. Identity Security Foundations
 
-  b. Managing access
+  b. Managing access \
     1. Managing and Securing identities and their access
     2. Provisioning access through out the identity lifecycle
 
-  c. Strengthen security
+  c. Strengthen security \
    1. Controls that tighten security in Identity and Access Management
    2. Managing risk in Identity Security
 
-  d. Assess your maturity
+  d. Assess your maturity \
    1. Assess your maturity
 
 ### Basics of Identity Access Management
