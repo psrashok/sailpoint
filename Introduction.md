@@ -1,7 +1,31 @@
 ### Sailpoint
   -> SailPoint's Identity Security Cloud solution enables organizations to manage and secure real-time access to critical data and applications for every enterprise identity with an intelligent and unified approach.
 
- #### What is Identity Access Management?
+#### IdentityIQ Compliance Manager
+
+   1. IdentityIQ Compliance Manager enhances audit and compliance performance while reducing costs.
+   2. It offers automated policy management, audit reporting, and analytics capabilities.
+   3. The component facilitates user-friendly access certifications for businesses.
+
+#### IdentityIQ Identity Intelligence
+
+  1. IdentityIQ Identity Intelligence provides comprehensive visibility for data identification and rapid risk recognition.
+  2. It facilitates quicker identification of compliance issues.
+  3. This capability enhances decision-making and boosts efficiency. 
+
+#### IdentityIQ Password Manager
+
+  1. IdentityIQ Password Manager is a key feature in Sailpoint, facilitating user password management.
+  2. It helps reduce operational costs while enhancing productivity.
+  3. Key functionalities include self-service password management and improved password policy enforcement and synchronization.
+
+#### Connectors and Integration Modules
+
+  1. Connectors and Integration Modules are essential elements of IdentityIQ in SailPoint.
+  2. They facilitate connections to both cloud-based and on-premises applications and data.
+  3. Additionally, they enable smooth integration of IdentityIQ with various IT security and operations tools.  
+
+#### What is Identity Access Management?
   -> Manage the access of Identity \
   -> Identity management is a method of verifying the identities of network entities and the level of access for enterprise network resources. It helps keep IT systems, networks, and data secure.
 
@@ -31,6 +55,7 @@
    1. Assess your maturity
 
 ### Basics of Identity Access Management
+
   - Identity and access management is the framework and processes organizations use to manage and secure digital identities and control user access to critical information.
   -  Systems include user registration, identity authentication, role-based access control, and compliance auditing and reporting.
   - Identity and access management systems protect sensitive data and systems from unauthorized access and breaches while also streamlining and automating the management of users’ digital identities, access permissions, and security policies.
@@ -127,8 +152,7 @@
 
 
 ### Sailpoint Workflows
-  -> A workflow is a set of steps that are completed every time a specific event occurs.
-  -> Automatically performing a series of actions within your system that you can configure in response to a trigger.
-  -> Workflows offer enormous flexibility, allowing you to configure a workflow to take very specific actions each time it runs.
-  -> Workflows are managed using JSON and user interface.
-  ->  
+  1. A workflow is a set of steps that are completed every time a specific event occurs.
+  2. Automatically performing a series of actions within your system that you can configure in response to a trigger.
+  3. Workflows offer enormous flexibility, allowing you to configure a workflow to take very specific actions each time it runs.
+  4. Workflows are managed using JSON and user interface.
