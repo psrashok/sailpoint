@@ -26,8 +26,8 @@
   3. Additionally, they enable smooth integration of IdentityIQ with various IT security and operations tools.  
 
 #### What is Identity Access Management?
-  -> Manage the access of Identity \
-  -> Identity management is a method of verifying the identities of network entities and the level of access for enterprise network resources. It helps keep IT systems, networks, and data secure.
+  1. Manage the access of Identity 
+  2. Identity management is a method of verifying the identities of network entities and the level of access for enterprise network resources. It helps keep IT systems, networks, and data secure.
 
 #### What is Identity Security Breaches
    
@@ -56,9 +56,9 @@
 
 ### Basics of Identity Access Management
 
-  - Identity and access management is the framework and processes organizations use to manage and secure digital identities and control user access to critical information.
-  -  Systems include user registration, identity authentication, role-based access control, and compliance auditing and reporting.
-  - Identity and access management systems protect sensitive data and systems from unauthorized access and breaches while also streamlining and automating the management of users’ digital identities, access permissions, and security policies.
+  1. Identity and access management is the framework and processes organizations use to manage and secure digital identities and control user access to critical information.
+  2. Systems include user registration, identity authentication, role-based access control, and compliance auditing and reporting.
+  3. Identity and access management systems protect sensitive data and systems from unauthorized access and breaches while also streamlining and automating the management of users’ digital identities, access permissions, and security policies.
 
   ##### Core concepts related to identity and access management
 
@@ -76,11 +76,11 @@
 
   ##### Introduction to IdentityIQ
 
-    - SailPoint IdentityIQ is an identity and access management software platform custom-built for complex enterprises.
-    - It delivers full lifecycle and compliance management for provisioning, access requests, access certifications, and separation of duties.
-    - The platform integrates with SailPoint's extensive library of connectors to intelligently govern access to today's essential business applications.
-    - Harnessing the power of AI and machine learning, SailPoint's AI Services seamlessly automate access, delivering only the required access to the right identities and technology at the right time.
-    - SailPoint's comprehensive extension modules address the sophisticated needs of the large enterprise while delivering the flexibility and ease-of-deployment that customers demand.
+    1. SailPoint IdentityIQ is an identity and access management software platform custom-built for complex enterprises.
+    2. It delivers full lifecycle and compliance management for provisioning, access requests, access certifications, and separation of duties.
+    3. The platform integrates with SailPoint's extensive library of connectors to intelligently govern access to today's essential business applications.
+    4. Harnessing the power of AI and machine learning, SailPoint's AI Services seamlessly automate access, delivering only the required access to the right identities and technology at the right time.
+    5. SailPoint's comprehensive extension modules address the sophisticated needs of the large enterprise while delivering the flexibility and ease-of-deployment that customers demand.
 
     ##### IdentityIQ Components and Features
 
